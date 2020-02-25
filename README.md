@@ -1,2 +1,2 @@
 # AquaBRAIN
-An ESP32 Aquarium controller, with both local (TXT) and remote (HTTP) interfaces
+An ESP32 Aquarium controller, with both local (TFT/LCD) and remote (HTTP) interfaces
